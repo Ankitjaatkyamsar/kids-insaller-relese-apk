@@ -3,7 +3,7 @@
 Official Release Repository for Kids Installer App (`kids.child.kids_installer_app`).
 
 ## Downloads
-- **Universal Phone Release (ARM + ARM64, 35.9 MB):** [Kids_Installer_App.apk](Kids_Installer_App.apk)
+- **Universal Phone Release (ARM + ARM64, 21.0 MB):** [Kids_Installer_App.apk](Kids_Installer_App.apk)
   - Direct Download Link: `https://github.com/Ankitjaatkyamsar/kids-insaller-relese-apk/raw/main/Kids_Installer_App.apk`
 - **64-bit Phone Release (ARM64-v8a, 23.2 MB):** [Kids_Installer_App_arm64.apk](Kids_Installer_App_arm64.apk)
   - Direct Download Link: `https://github.com/Ankitjaatkyamsar/kids-insaller-relese-apk/raw/main/Kids_Installer_App_arm64.apk`
